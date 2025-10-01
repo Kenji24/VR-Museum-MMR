@@ -1,0 +1,3 @@
+repository "VRMuseum/VRMuseum@20067038779602@cloud"
+  path "/"
+    smartbranch "/main/scene setup"
